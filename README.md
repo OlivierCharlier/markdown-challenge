@@ -50,7 +50,7 @@
     Here is a short funny story about my life.
     
 
-   _ Here is my summary. _
+    > Here is my summary.
 
 
     << [previous](link) || *OLIVIER* || [next](link) >>
