@@ -1,7 +1,4 @@
-
-
-    Olivier Charlier
-    ================
+    # Olivier Charlier
 
     > In Code We Trust
 
