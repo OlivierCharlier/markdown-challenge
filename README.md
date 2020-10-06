@@ -5,7 +5,6 @@
 ![Photo de profil](profil.jpg)
 ## Resident of Earth
 
-| -----------    | ----------- |
 | Birthday       | 26/04       |
 | Favorite color | Orange      |
 | Favorite food  | Pita        |
