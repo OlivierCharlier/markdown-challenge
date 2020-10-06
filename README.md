@@ -10,8 +10,8 @@
 | Birthday       | 26/04       |
 | Favorite color | Orange      |
 | Favorite food  | Pita        |
-| Pinneapple     | - [x] YES   |
-| on pizza ?     | - [ ] NO    |
+| Pinneapple on pizza ?     | -[x] YES   -[ ] NO    |
+
 
 
 ## Hobbies
