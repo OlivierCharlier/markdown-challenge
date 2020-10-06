@@ -5,13 +5,13 @@
 ![Photo de profil](profil.jpg)
 ## Resident of Earth
 
-| Mes goûts       | sont ...      |
-| --------------- | ------------- |
-| Birthday:       | :26/04:       |
-| Favorite color: | :Orange:      |
-| Favorite food:  | :Pita:        |
-| Pinneapple:     | :- [x] YES:   |
-| on pizza ?:     | :- [ ] NO:    |
+| Mes goûts      | sont ...    |
+| -------------- | :---------: |
+| Birthday       | 26/04       |
+| Favorite color | Orange      |
+| Favorite food  | Pita        |
+| Pinneapple     | - [x] YES   |
+| on pizza ?     | - [ ] NO    |
 
 
 ## Hobbies
