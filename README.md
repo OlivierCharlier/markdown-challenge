@@ -1,40 +1,34 @@
-    # Olivier Charlier
+# Olivier Charlier
 
-    > In Code We Trust
+> In Code We Trust
 
-    ![Photo de profil](profil.jpg)
+![Photo de profil](profil.jpg)
+## Resident of Earth
 
-    ## Resident of Earth
-
-    | -----------    | ----------- |
-    | Birthday       | 26/04       |
-    | -----------    | ----------- |
-    | Favorite color | Orange      |
-    | -----------    | ----------- |
-    | Favorite food  | Pita        |
-    | -----------    | ----------- |
-    | Pinneapple     | - [x] YES   |
-    | on pizza ?     | - [ ] NO    |
-    | -----------    | ----------- |
+| -----------    | ----------- |
+| Birthday       | 26/04       |
+| Favorite color | Orange      |
+| Favorite food  | Pita        |
+| Pinneapple     | - [x] YES   |
+| on pizza ?     | - [ ] NO    |
 
 
-    ## Hobbies
+## Hobbies
+* Belgium Beers
+* Boardgames
+    * Meeple games
+    * Card games
+    * Family games
+    * Strategic games
+* My friends
+* My kids
 
-    * Belgium Beers
-    * Boardgames
-        * Meeple games
-        * Card games
-        * Family games
-        * Strategic games
-    * My friends
-    * My kids
     
-    
-    ## You can always count on me.
+## You can always count on me.
 
-    :blush: I am a trustworthy person. I will never let you down. In return, don't try to betray me. 😊
+:blush: I am a trustworthy person. I will never let you down. In return, don't try to betray me. 😊
 
-    ## A funny story
+## A funny story
 
     Here is a short funny story about my life.
     Here is a short funny story about my life.
@@ -47,8 +41,7 @@
     Here is a short funny story about my life.
     
 
-    > Here is my summary.
+> Here is my summary.
 
 
-    << [previous](link) || *OLIVIER* || [next](link) >>
-
+<< [previous](link) || *OLIVIER* || [next](link) >>
