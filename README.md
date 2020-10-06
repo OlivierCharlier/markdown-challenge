@@ -5,7 +5,7 @@
 ![Photo de profil](profil.jpg)
 ## Resident of Earth
 
-| Mes goûts      | sont ...    |
+| Hello      | World ...    |
 | -------------- | :---------: |
 | Birthday       | 26/04       |
 | Favorite color | Orange      |
